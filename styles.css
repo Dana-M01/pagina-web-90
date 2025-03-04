@@ -1,0 +1,12 @@
+body{ 
+  background-image: url(https://i.pinimg.com/736x/76/7c/e7/767ce756b16ac7c5a21e9e7f11a22090.jpg) 
+}
+h1{
+  text-align: center;
+}
+.menu{   
+  width: 90%;
+  background-color: #aa00ff;
+  margin-left: auto;
+  margin-right: auto;
+}  
