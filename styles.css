@@ -8,14 +8,22 @@ h1{
   margin-bottom: 30px; /* Espacio inferior */
   font-family: 'Courier New', Courier, monospace;
 }
+h3{
+  text-align: center;
+  font-size: 8.1em; /* Tamaño de fuente */
+  color: #ffffff; /* Color del texto */
+  margin-bottom: 30px; /* Espacio inferior */
+  font-family: 'Courier New', Courier, monospace;
+}
 h2{
   font-size: 3.1em; /* Tamaño de fuente */
   color: #070707; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
+  margin: 10px; /* Margen */ ;
   font-family: 'Courier New', Courier, monospace;
 }
 p{
-  font-size: 2.1 em; /* Tamaño de fuente */
+  font-size: 2.4 em; /* Tamaño de fuente */
   color: #070707; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
   margin: 20px; /* Margen */ ;
