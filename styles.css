@@ -48,10 +48,9 @@ li{
   margin: 0 auto; /* Centra la imagen horizontalmente */
   border: 3px solid #000; /* Añade un borde negro de 2px */
 }
-/* filepath: /workspaces/pagina-web-90/styles.css */
 .gif-configurada {
   width: 30%; /* Ajusta el ancho del GIF al 40% del contenedor */
-  height: auto; /* Mantiene la proporción del GIF */
+  height: 30%; /* Mantiene la proporción del GIF */
   display: block; /* Hace que el GIF sea un bloque para poder centrarlo */
   margin: 0 auto; /* Centra el GIF horizontalmente */
   border: 3px solid #000; /* Añade un borde negro de 2px */
