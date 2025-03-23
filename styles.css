@@ -10,27 +10,27 @@ h1{
 }
 h3{
   text-align: center;
-  font-size: 8.1em; /* Tamaño de fuente */
+  font-size: 7.1em; /* Tamaño de fuente */
   color: #ffffff; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
   font-family: 'Courier New', Courier, monospace;
 }
 h2{
-  font-size: 3.1em; /* Tamaño de fuente */
+  font-size: 5.1em; /* Tamaño de fuente */
   color: #070707; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
   margin: 10px; /* Margen */ ;
   font-family: 'Courier New', Courier, monospace;
 }
 p{
-  font-size: 2.4 em; /* Tamaño de fuente */
+  font-size: 11.4 em; /* Tamaño de fuente */
   color: #070707; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
   margin: 20px; /* Margen */ ;
   font-family: 'Courier New', Courier, monospace;
 }
 li{
-  font-size: 2.1 em; /* Tamaño de fuente */
+  font-size: 4.1 em; /* Tamaño de fuente */
   color: #070707; /* Color del texto */
   margin-bottom: 30px; /* Espacio inferior */
   font-family: 'Courier New', Courier, monospace;
@@ -46,5 +46,13 @@ li{
   height: 40%; /* Mantiene la proporción de la imagen */
   display: block; /* Hace que la imagen sea un bloque para poder centrarla */
   margin: 0 auto; /* Centra la imagen horizontalmente */
+  border: 3px solid #000; /* Añade un borde negro de 2px */
+}
+/* filepath: /workspaces/pagina-web-90/styles.css */
+.gif-configurada {
+  width: 30%; /* Ajusta el ancho del GIF al 40% del contenedor */
+  height: auto; /* Mantiene la proporción del GIF */
+  display: block; /* Hace que el GIF sea un bloque para poder centrarlo */
+  margin: 0 auto; /* Centra el GIF horizontalmente */
   border: 3px solid #000; /* Añade un borde negro de 2px */
 }
